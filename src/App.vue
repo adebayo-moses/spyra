@@ -79,6 +79,18 @@ header .heading {
   margin-bottom: 25px;
 }
 
+@media (max-width: 768px) {
+  .sub-paragraph {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  header .heading {
+  font-size: 70px;
+  }
+}
+
 .sub-heading {
   font-style: normal;
   font-weight: normal;
@@ -131,5 +143,11 @@ video {
     font-weight: normal;
     font-size: 4.5em;
 }
+
+@media (max-width: 768px) {
+    .video-overlay .details h1{
+        font-size: 2.5em;
+}
+    }
 
 </style>
