@@ -37,6 +37,10 @@
 
 <style>
 @import './assets/base.css';
+@font-face {
+  font-family: "Satoshi";
+  src: local("Satoshi-Regular"), url("./assets/fonts/Satoshi-Regular.ttf") format("truetype");
+  }
 
 #app {
   max-width: 1280px;
