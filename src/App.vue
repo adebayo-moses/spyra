@@ -95,4 +95,37 @@ header .heading {
   margin-bottom: 44px;
 }
 
+
+video {
+  width: 100%;
+  height: 80vh;
+  object-fit: cover;
+  z-index: 1;
+}
+
+.video-overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  display: grid;
+  place-items: center;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.603);
+  z-index: 2;
+}
+
+.video-overlay {
+  color: white;
+  display: grid;
+  text-align: center;
+  width: 100%;
+}
+
+
+.video-overlay .details h1{
+    font-weight: normal;
+    font-size: 4.5em;
+}
+
 </style>
