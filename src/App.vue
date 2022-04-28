@@ -17,7 +17,7 @@
       </div>
       <p class="heading">Spyra</p>
       <p class="sub-heading">A simple, fast and secure way to share files with your friends.</p>
-      <p class="sub-paragraph">Spyra is a free, entirely remote, four-month-long immersive programme for helping Startups refine their business model and help prepare them for investment readiness.</p>
+      <p class="sub-paragraph">Spyra is a free, entirely remote, four-month-long immersive programme for helping startups refine their business model and help prepare them for investment readiness.</p>
 <div>
   <!-- <a href="https://spyra.co/"> -->
     <!-- <img style="height: 100px; width: 100px;" src="./assets/logo.png" alt="spyra logo">  </a> -->
