@@ -1,4 +1,7 @@
 # spyra
+This project is in a good shape currently, but still in development, learning how to use components properly so i'll be back soon.
+
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
